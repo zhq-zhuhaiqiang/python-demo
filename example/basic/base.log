@@ -10,3 +10,9 @@
 [20]2017-11-16 14:59:44 - /Users/evanbell/GitHub/python-demo/example/basic/demo22.py - ERROR    - demo22 : error
 [21]2017-11-16 14:59:44 - /Users/evanbell/GitHub/python-demo/example/basic/demo22.py - CRITICAL - demo22 : critical
 [22]2017-11-16 14:59:44 - /Users/evanbell/GitHub/python-demo/example/basic/demo22.py - DEBUG    - demo22 : log
+[17]2019-03-05 11:24:18 - demo22.py - DEBUG    - demo22 : debug
+[18]2019-03-05 11:24:18 - demo22.py - INFO     - demo22 : info
+[19]2019-03-05 11:24:18 - demo22.py - WARNING  - demo22 : warning
+[20]2019-03-05 11:24:18 - demo22.py - ERROR    - demo22 : error
+[21]2019-03-05 11:24:18 - demo22.py - CRITICAL - demo22 : critical
+[22]2019-03-05 11:24:18 - demo22.py - DEBUG    - demo22 : log

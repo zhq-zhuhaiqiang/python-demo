@@ -4,11 +4,11 @@
 配置文件的增删改查
 """
 
-import configparser
+import configparser , json
 
 conf = configparser.ConfigParser()
 conf.read(".config", encoding="utf-8")
-
+print(json.dumps(conf))
 # 获取所有的节点
 v1 = conf.sections()
 print(v1)

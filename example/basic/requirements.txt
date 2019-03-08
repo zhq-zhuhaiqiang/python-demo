@@ -1,0 +1,9 @@
+certifi==2018.11.29
+chardet==3.0.4
+idna==2.8
+pycurl==7.43.0
+pygobject==3.20.0
+python-apt==1.1.0b1+ubuntu0.16.4.2
+requests==2.21.0
+urllib3==1.24.1
+virtualenv==15.0.1
